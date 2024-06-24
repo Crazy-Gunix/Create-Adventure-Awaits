@@ -1,0 +1,13 @@
+name = "Lucky TNT Lib"
+filename = "luckytntlib-1.20-47.2.32.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9e54db414203e46f55ddf8ba705a23c8fe75ef4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5373316
+project-id = 678042

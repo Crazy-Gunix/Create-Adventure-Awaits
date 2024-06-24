@@ -164,6 +164,11 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
+file = "mods/lucky-tnt-lib.pw.toml"
+hash = "f62265a0f8ce43af88830af255062c455d9101a9b12f2ff36d5a1ce8861c8461"
+metafile = true
+
+[[files]]
 file = "mods/luckytnt.pw.toml"
 hash = "1683cf59931738f037ebff1beda6d74cd494a80533b7fbea9bc35dc9256e95f0"
 metafile = true
