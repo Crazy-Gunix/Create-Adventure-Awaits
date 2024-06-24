@@ -1,12 +1,12 @@
 name = "Create: Adventure Awaits"
 author = "CrazyGunix"
-version = "1.1.1"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9263cef7af8bebcdf202275d27901bcd04a07b44cb6d3e8f0dcb1c1ce564b037"
+hash = "0e4b9e2a99066c7401ffef88e8821904ac450004ba739ef0ff98514dba0b9841"
 
 [versions]
 forge = "47.3.1"

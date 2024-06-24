@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE.md"
+hash = "cb7fa699308e24395b86740a01d18d8fcceb23dfc52709e8c85cd5ef2d2c86d6"
+
+[[files]]
 file = "config/immersive_aircraft.json"
 hash = "c09aff999c11bd91d11b09dda54b8c8425ac1a82cca15dab4f658ec0d24772c4"
 
@@ -39,6 +43,11 @@ hash = "7326f4a85591cb390d744ffc76f8daa1bb056aa0e0dcc9d27b6c661d10c441de"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
@@ -59,6 +68,11 @@ hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "c281134b17e7f0ba2daf7c2c55bd2cebdd24b471060372ab0cbcc8233ce5d681"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "4ae0eca22eeeb6cbcd629b24e32c2617c9a73032b89fff188bef10b98ca791a5"
 metafile = true
@@ -66,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "60e22142593d512e3614ae5171e8a247d9bedbf18fe55750387f45f99993e5cc"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "9a6d944e6518ef55ec14dcdac4ec8fad74f02572874d37769590aeca616ad4d5"
 metafile = true
 
 [[files]]
@@ -129,6 +148,16 @@ hash = "c62814ffe42bc22336b602125b1e5bd27cf8791c5df7d52320b57ab86360db0d"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "400396918f6581f7157a25c5dda75fd620d16fd8565201a5e7aee30f6c7df8b0"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "cf6109370c6dc1204b44012c69dc2d9667b42db55d727f62830f69b4f3715b25"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
 metafile = true
@@ -179,6 +208,11 @@ hash = "fe0c032092af5482bd2255148c55ed5b9fabdfeccff4fe24f2faf488d04c5d15"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
@@ -206,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
+metafile = true
+
+[[files]]
+file = "mods/physics-mod.pw.toml"
+hash = "98df1e887fc18d81d282e00eb1f5109dd8e151d1b86b4c861fdd5e508ee672a2"
 metafile = true
 
 [[files]]
@@ -249,6 +288,11 @@ hash = "a943b190ae8648304ae8f33c139ee59a0f90f2f30c997e4fcb4f246aed4f9a0a"
 metafile = true
 
 [[files]]
+file = "mods/villager-names.pw.toml"
+hash = "d8eb681d517629cae251ead8e41c0de98c4f6d13663090f09661e3bdc4d4ba1c"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
 metafile = true
@@ -256,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
 hash = "0b03ce76554551677c7c083f468c789739b4837b015232b89b6f4d9378a42766"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
 metafile = true
 
 [[files]]
