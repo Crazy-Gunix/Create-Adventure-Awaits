@@ -1,0 +1,13 @@
+name = "Regrowth"
+filename = "regrowth-1.20-46.31.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b29fb388654d6db7865af38bedf53643ca78a774"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4772088
+project-id = 381597

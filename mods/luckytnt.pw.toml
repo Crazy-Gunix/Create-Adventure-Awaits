@@ -1,0 +1,13 @@
+name = "Lucky TNT Mod (Too Much TNT)"
+filename = "luckytntmod-1.20-2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70927cfbf7700a946b3ba3f5a60bed30d4414015"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5376300
+project-id = 545405
