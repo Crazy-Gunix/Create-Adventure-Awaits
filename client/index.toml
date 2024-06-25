@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE.md"
-hash = "cb7fa699308e24395b86740a01d18d8fcceb23dfc52709e8c85cd5ef2d2c86d6"
-
-[[files]]
 file = "config/embeddium-options.json"
 hash = "e1b0886da79d3a040e37b073ea2c142437a0a6fffe7b091feade9670f589131c"
 
@@ -63,6 +59,16 @@ hash = "6337eb42574c229aaa94d86be6fbca7ea2792448c7286cc5afa3fab6c8f1942c"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "ccb28484e754b00df3cc36a95ab39c49660dde767be525ee2f5c7620a5df8c76"
 metafile = true
@@ -93,6 +99,11 @@ hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "79a3fb06122208f61eede6e34a4ed3ea15107cd89ebcbfd8afc2903a6fa01a8a"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
 metafile = true
@@ -100,6 +111,16 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+metafile = true
+
+[[files]]
+file = "mods/blur-forge.pw.toml"
+hash = "b452fc877ad16f35cf274f3945ec7eb46d645be3d76bd506858b263ce09332ce"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
 metafile = true
 
 [[files]]
@@ -115,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
@@ -198,6 +224,11 @@ hash = "32446647caba6dd865ec1fae8c5651dfd543efaaa0b40cfa75d56c39fe35d491"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
 file = "mods/delightful.pw.toml"
 hash = "c62814ffe42bc22336b602125b1e5bd27cf8791c5df7d52320b57ab86360db0d"
 metafile = true
@@ -213,6 +244,16 @@ hash = "a25d0d16d3da4c91a5b924e6372218b5b308eab4d07de5f5d48b801e08b506fc"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "1b6c9f4e218d83dbaa94b45b7bc990d03364d8898c55d32123cd495ef2647d53"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "9e509b2046271caf29aa1f0f91f1db22d981a3e84f0dd4b13047b3010fba078f"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "cf6109370c6dc1204b44012c69dc2d9667b42db55d727f62830f69b4f3715b25"
 metafile = true
@@ -220,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "c987b4f2713f3a6335dde6ded47de4d4cdbbcaa037d139c37e7e25f7f590fb31"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "3de9fc56a1f656b20b308f462aac84aa50bd30551371137b752db21cf5091cfd"
 metafile = true
 
 [[files]]
@@ -243,8 +289,18 @@ hash = "4db64b70cbc5b078b807402a1e82ad324a44495958c1236390beaaeebf4d689e"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "7a210f5b020288a1bd32e22e3f6e53bd3e2a6e8d3221fdff6fd3d5a037f6d9d0"
+metafile = true
+
+[[files]]
+file = "mods/gamemenumodoption.pw.toml"
+hash = "d86933e1f173bc52bee22c6376733671696cf157f8a5686994cb520ba8aa8583"
 metafile = true
 
 [[files]]
@@ -288,8 +344,23 @@ hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "3ec2ca23e150731b25c0999c5afc766fb3b8eeff7ff0d4a2180f3c106ef8cfa8"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "ba6600d024f257ff40d4fca84e87fc553d5853b6c71f666d8597891d611b62f0"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
 metafile = true
 
 [[files]]
@@ -313,6 +384,16 @@ hash = "be4a15f841ebadfad925a2d17a0206547964b77e86e063df023f736c2c2b116c"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "c482f82b6ed128451c78e37c9347a907fc35f5e8b12e0347e2bbd8a3eec175fa"
 metafile = true
@@ -325,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "165612664bf8ecd6f5d3ff6a6181293cc1233116f72c71c7a1cbb8c59aca1944"
 metafile = true
 
 [[files]]
@@ -341,10 +427,6 @@ metafile = true
 file = "mods/pandas-falling-trees.pw.toml"
 hash = "87eaf9a98683d0b20a7380d7bc699816e0f68f9a101d1bf688f6e6d4545da6a8"
 metafile = true
-
-[[files]]
-file = "mods/physics-mod-pro-v170d-forge-1.20.1.jar"
-hash = "73128df366dd194b6c6dbfd7d44b55912ee16338d228e361baf6fd43ffc07372"
 
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
@@ -367,6 +449,11 @@ hash = "f7e03ea4d0d58b1b40a10128401b589732bb51274e657f0183cf9ad412e3aa9e"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "baa3801c6db3a574401e1a80477f79ad59c99015e7d8b7bed4ee476c0340145b"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
 metafile = true
@@ -384,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "3ffd38de3835a191215be1bdbcb3cfbce7353859ec541a2cb1529ba36d983471"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "6c05b77030665d90ceffbc50d7fd6ed1dedefb20d333c39443c68704ec76f629"
 metafile = true
 
 [[files]]
