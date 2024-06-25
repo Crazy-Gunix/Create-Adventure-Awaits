@@ -5,12 +5,52 @@ file = "LICENSE.md"
 hash = "cb7fa699308e24395b86740a01d18d8fcceb23dfc52709e8c85cd5ef2d2c86d6"
 
 [[files]]
+file = "config/embeddium-options.json"
+hash = "e1b0886da79d3a040e37b073ea2c142437a0a6fffe7b091feade9670f589131c"
+
+[[files]]
 file = "config/immersive_aircraft.json"
 hash = "c09aff999c11bd91d11b09dda54b8c8425ac1a82cca15dab4f658ec0d24772c4"
 
 [[files]]
+file = "config/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/physicsmod/physics_blocks_client_config.json"
+hash = "cd1b0f4c454f2719c380284b3cbfbdce574253ca114672f838c7e2e04c78aec5"
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "cee56e85bb17df80dabdad97a537ecbd25f25ed2d7528c24cc7372036478a4dc"
+
+[[files]]
+file = "config/physicsmod/physics_cloth_config.json"
+hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
+
+[[files]]
+file = "config/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "1afde48eff108eb21adb246de5d44ef6ced16862cca62cf0123c059a9934c7cc"
+
+[[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "e57c83a374549b3b325e36cd43398596d857159f50cb2e07610a51dcfc34c397"
+
+[[files]]
+file = "config/pregen/base.cfg"
+hash = "13ef5c43287ee338b669ac3dbb454a48b7ac3eaa648143d68b3f3d4a2cee5dbb"
+
+[[files]]
 file = "config/tectonic.json"
 hash = "90d215b4523c51d36c4f7a8d9c57512838e5a90b9fab42f22623ed3b4f59d168"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "d8586ad44c7fe69b41068d028e60484374d0b58b8c9094911e5db6aa4abc7f67"
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
@@ -38,6 +78,11 @@ hash = "a970ca6ffa0d4d985bc0bcb2e6b51c8a156e6e2a1118c924a4d5c213c9afd15c"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7326f4a85591cb390d744ffc76f8daa1bb056aa0e0dcc9d27b6c661d10c441de"
 metafile = true
@@ -45,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
 metafile = true
 
 [[files]]
@@ -70,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "c281134b17e7f0ba2daf7c2c55bd2cebdd24b471060372ab0cbcc8233ce5d681"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "6bdf5c00414be2b3bb20d040afe2e90550a300755414aaff01577eed6eaf491f"
 metafile = true
 
 [[files]]
@@ -153,13 +208,28 @@ hash = "400396918f6581f7157a25c5dda75fd620d16fd8565201a5e7aee30f6c7df8b0"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "a25d0d16d3da4c91a5b924e6372218b5b308eab4d07de5f5d48b801e08b506fc"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "cf6109370c6dc1204b44012c69dc2d9667b42db55d727f62830f69b4f3715b25"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "c987b4f2713f3a6335dde6ded47de4d4cdbbcaa037d139c37e7e25f7f590fb31"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "e932f7abbc799791d19e9bb6dba0dacf5ed75ef165911bf375cf584141c657d8"
 metafile = true
 
 [[files]]
@@ -180,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "941bbc3b5a23b8392d88b534a7fa1973273c3daa6f8fb70bfe4d4645423a2159"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "06055ac74134577690e8f301f25111a33bdb14255e60d7e42d8276eae4746c0f"
 metafile = true
 
 [[files]]
@@ -218,6 +293,11 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "3ce0ee2fd738c392ec888583533d0e35b808c6838ccc01a3e7c0068dffcd267b"
+metafile = true
+
+[[files]]
 file = "mods/lucky-tnt-lib.pw.toml"
 hash = "f62265a0f8ce43af88830af255062c455d9101a9b12f2ff36d5a1ce8861c8461"
 metafile = true
@@ -225,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/luckytnt.pw.toml"
 hash = "1683cf59931738f037ebff1beda6d74cd494a80533b7fbea9bc35dc9256e95f0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "be4a15f841ebadfad925a2d17a0206547964b77e86e063df023f736c2c2b116c"
 metafile = true
 
 [[files]]
@@ -243,9 +328,23 @@ hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
-file = "mods/physics-mod.pw.toml"
-hash = "98df1e887fc18d81d282e00eb1f5109dd8e151d1b86b4c861fdd5e508ee672a2"
+file = "mods/oculus.pw.toml"
+hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
 metafile = true
+
+[[files]]
+file = "mods/pandalib.pw.toml"
+hash = "81761dddd11a6aece347ce1e8d9b800cef2e01c0579432e7afd24b709f3e113b"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "87eaf9a98683d0b20a7380d7bc699816e0f68f9a101d1bf688f6e6d4545da6a8"
+metafile = true
+
+[[files]]
+file = "mods/physics-mod-pro-v170d-forge-1.20.1.jar"
+hash = "73128df366dd194b6c6dbfd7d44b55912ee16338d228e361baf6fd43ffc07372"
 
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
@@ -270,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
+metafile = true
+
+[[files]]
+file = "mods/sleeping-overhaul-2.pw.toml"
+hash = "77bafc168cc1dce0ba8e0d2e989ea77801d3cdff53ce9e5060767e8068a03262"
 metafile = true
 
 [[files]]
@@ -351,3 +455,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "2f91eff59450dee2083033c343336eac2b0718025f5788e232c8c98ef492af2c"
